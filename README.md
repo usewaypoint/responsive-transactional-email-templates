@@ -1,0 +1,1 @@
+# responsive-transactional-email-templates
