@@ -4,7 +4,7 @@
 
 ## Free SaaS, marketplace, and e-commerce email templates
 
-HTML emails can be a pain to get right. That’s why we ([Waypoint](https://usewaypoint.com/)) built a large set of battle tested email templates for many common transactional emails. From simple welcome messages to complex reports that are free and available to use:
+HTML emails can be a pain to get right. That’s why we ([Waypoint](https://usewaypoint.com/)) built a large set of battle tested email templates for many common transactional emails to use on SaaS, marketplace, and e-commerce applications. From simple welcome messages to complex reports that are free and available to use:
 
 ![Screenshots of templates](/images/templates.png)
 
@@ -65,17 +65,17 @@ If you need to make style adjustments, you’ll need to pretend like you are cod
 
 ## Want to visually edit these templates?
 
-[EmailBuilder.js](https://github.com/usewaypoint/email-builder-js) is the free and open-source version of our much-loved no-code template builder on Waypoint. Dev teams use EmailBuilder.js to build emails faster than ever with clean JSON or HTML output that render well across clients and devices.
+If you want to edit these templates and not feel like you have to write 90's style HTML/CSS, we recommend using our free and open-source template builder, [EmailBuilder.js](https://github.com/usewaypoint/email-builder-js). Use this community version of our template builder to build emails faster than ever with clean JSON or HTML output that render well across clients and devices.
 
-[Use our playground](https://usewaypoint.github.io/email-builder-js/#sample/reservation-reminder) or learn more about how to [get started using EmailBuilder.js](https://github.com/usewaypoint/email-builder-js#using-emailbuilderjs).
+Give a try [on our playground](https://usewaypoint.github.io/email-builder-js/#sample/reservation-reminder) or learn more about how to [get started using EmailBuilder.js](https://github.com/usewaypoint/email-builder-js#using-emailbuilderjs).
 
 ![Screenshot of EmailBuilder.js](/images/emailbuilderjs.png)
 
 <br>
 
-## Looking for more power?
+## Looking for a better collaboration experience?
 
-If you are looking for a better collaboration experience for your team, check out [Waypoint's email API](https://usewaypoint.com/) with a hosted template builder with dynamic LiquidJS variables, drag and drop, Markdown formatting, reusable layouts, loops, and additional blocks.
+If you are looking for a better collaboration experience for your team, be sure to check out [Waypoint](https://usewaypoint.com/) – an email API with an even more powerful template builder and great observability.
 
 Learn more on our [quick start guide](https://www.usewaypoint.com/docs/quickstart).
 
